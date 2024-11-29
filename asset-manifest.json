@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PythonVidya/static/css/main.e6722c9c.css",
-    "main.js": "/PythonVidya/static/js/main.61b99f61.js",
+    "main.js": "/PythonVidya/static/js/main.390e18da.js",
     "pyodide/pyodide.asm.wasm": "/PythonVidya/pyodide/pyodide.asm.wasm",
     "static/media/python_core.tar.load_by_url": "/PythonVidya/static/media/python_core.tar.64630aa26ee4cbd96fba.load_by_url",
     "pyodide/python_stdlib.zip": "/PythonVidya/pyodide/python_stdlib.zip",
@@ -14,10 +14,10 @@
     "pyodide/package.json": "/PythonVidya/pyodide/package.json",
     "index.html": "/PythonVidya/index.html",
     "main.e6722c9c.css.map": "/PythonVidya/static/css/main.e6722c9c.css.map",
-    "main.61b99f61.js.map": "/PythonVidya/static/js/main.61b99f61.js.map"
+    "main.390e18da.js.map": "/PythonVidya/static/js/main.390e18da.js.map"
   },
   "entrypoints": [
     "static/css/main.e6722c9c.css",
-    "static/js/main.61b99f61.js"
+    "static/js/main.390e18da.js"
   ]
 }
