@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/PythonVidya/static/css/main.e6722c9c.css",
-    "main.js": "/PythonVidya/static/js/main.390e18da.js",
+    "main.js": "/PythonVidya/static/js/main.bfd130fb.js",
     "pyodide/pyodide.asm.wasm": "/PythonVidya/pyodide/pyodide.asm.wasm",
-    "static/media/python_core.tar.load_by_url": "/PythonVidya/static/media/python_core.tar.64630aa26ee4cbd96fba.load_by_url",
+    "static/media/python_core.tar.load_by_url": "/PythonVidya/static/media/python_core.tar.d8d1ffa7d9b28800fcb1.load_by_url",
     "pyodide/python_stdlib.zip": "/PythonVidya/pyodide/python_stdlib.zip",
     "pyodide/pyodide.asm.js": "/PythonVidya/pyodide/pyodide.asm.js",
     "static/media/pages.json.load_by_url": "/PythonVidya/static/media/pages.json.3e46b951f819ef76294e.load_by_url",
     "pyodide/pyodide-lock.json": "/PythonVidya/pyodide/pyodide-lock.json",
-    "static/js/Worker.88e178cf.worker.js": "/PythonVidya/static/js/Worker.88e178cf.worker.js",
+    "static/js/Worker.19088a8b.worker.js": "/PythonVidya/static/js/Worker.19088a8b.worker.js",
     "service-worker.js": "/PythonVidya/service-worker.js",
     "static/media/language.png": "/PythonVidya/static/media/language.01e9858166e0111e3375.png",
     "pyodide/package.json": "/PythonVidya/pyodide/package.json",
     "index.html": "/PythonVidya/index.html",
     "main.e6722c9c.css.map": "/PythonVidya/static/css/main.e6722c9c.css.map",
-    "main.390e18da.js.map": "/PythonVidya/static/js/main.390e18da.js.map"
+    "main.bfd130fb.js.map": "/PythonVidya/static/js/main.bfd130fb.js.map"
   },
   "entrypoints": [
     "static/css/main.e6722c9c.css",
-    "static/js/main.390e18da.js"
+    "static/js/main.bfd130fb.js"
   ]
 }
